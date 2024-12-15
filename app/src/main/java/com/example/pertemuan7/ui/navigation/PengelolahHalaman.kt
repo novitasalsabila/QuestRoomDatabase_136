@@ -6,7 +6,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.pertemuan7.ui.view.mahasiswa.DestinationInsert
+import com.example.pertemuan7.ui.view.mahasiswa.DestinasiInsert
 import com.example.pertemuan7.ui.view.mahasiswa.InsertMhsView
 
 @Composable
@@ -16,10 +16,10 @@ fun PengelolaHalaman(
 ){
     NavHost(
         navController = navController,
-        startDestination = DestinationInsert.router
+        startDestination = DestinasiInsert.route
     ) {
         composable(
-            route = DestinationInsert.router
+            route = DestinasiInsert.route
         ) {
             InsertMhsView(
                 onBack = {}, onNavigate = {}
