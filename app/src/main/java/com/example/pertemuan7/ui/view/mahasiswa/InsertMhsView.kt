@@ -37,13 +37,13 @@ import com.example.pertemuan7.ui.viewmodel.MhsUIState
 import com.example.pertemuan7.ui.viewmodel.PenyediaViewModel
 import kotlinx.coroutines.launch
 
-object DestinationInsert : AlamatNavigasi{
-    override val router: String = "insert_mhs"
-}
-
 //object DestinasiInsert : AlamatNavigasi{
-//    override val route: String = "insert_mhs"
-//} //object dikenal sebagai nama halamnan di insertmhsview
+//    override val router: String = "insert_mhs"
+//}
+
+object DestinasiInsert : AlamatNavigasi{
+    override val route: String = "insert_mhs"
+} //object dikenal sebagai nama halamnan di insertmhsview
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -77,7 +77,8 @@ fun InsertMhsView(
             TopAppBar(
                 onBack = onBack,
                 showBackButton = true,
-                judul = "Tambah Mahasiswa"
+                judul = "Tambah Mahasiswa",
+                modifier = modifier
             )
             //isi body
             InsertBodyMhs(
