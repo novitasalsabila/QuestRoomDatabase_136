@@ -28,3 +28,4 @@ interface MahasiswaDao {
     suspend fun updateMahasiswa(mahasiswa: Mahasiswa)
 }
 
+
