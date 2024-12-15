@@ -1,29 +1,36 @@
 Daftar Mahasiswa
-![image](https://github.com/user-attachments/assets/5c883436-2f2c-4b5a-a434-1f2fea79ff3c)
+![1](https://github.com/user-attachments/assets/782025b7-3c72-41a3-9080-974ead4288dd)
 
 Menambah Data Mahasiswa bernama memet
-![image](https://github.com/user-attachments/assets/0b5d42e9-0b24-4f3a-8fe6-3717277caa6b)
+![2](https://github.com/user-attachments/assets/ee4c0b44-02da-4263-87dc-d499f1e472fd)
 
 Tampilan daftar mahasiswa setelah create data memet
-![image](https://github.com/user-attachments/assets/1f46f4dc-25eb-4948-94b7-8f8cb438f2cc)
+![3](https://github.com/user-attachments/assets/365f1b7f-a66f-47a5-811d-7f27acf7d526)
+
 
 Tampilan ketika data sengaja dikosongkan
-![image](https://github.com/user-attachments/assets/02e361c5-31bb-442b-8e89-211e14da9190)
+![4](https://github.com/user-attachments/assets/dba4ab36-6679-463a-bc9e-ce509cc6b9ce)
+
 
 Detail mahasiswa memet
-![image](https://github.com/user-attachments/assets/e79725b3-a16f-46b2-9551-91a74525d2c4)
+![5](https://github.com/user-attachments/assets/ae236e4d-7f35-48f4-ae0e-373867f34280)
+
 
 Tampilan Edit jenis kelamin mahasiswa memet
-![image](https://github.com/user-attachments/assets/a22459b3-160a-4c77-b3a7-aa2974ea2e13)
+![6](https://github.com/user-attachments/assets/30ecfe99-3196-44a2-a693-12ba64129574)
+
 
 Tampilan setelah diedit
-![image](https://github.com/user-attachments/assets/526765d2-fe7d-44c1-abd6-39d87870fab1)
+![7](https://github.com/user-attachments/assets/41687f66-800a-48cb-8175-ca9ddecf2655)
 
-![image](https://github.com/user-attachments/assets/b56de13a-7c8b-4058-a6a7-1f44dadba2f9)
+
+![8](https://github.com/user-attachments/assets/5acbd5f6-4490-41bc-af6f-782516af76ed)
+
 
 Delete data Memet
-![image](https://github.com/user-attachments/assets/6f46bcc1-0f79-4486-ace9-63cf3e78331a)
+![9](https://github.com/user-attachments/assets/922481ee-5355-4c24-99ac-f3626611f6e2)
 
 Tampilan setelah di DELETE
-![image](https://github.com/user-attachments/assets/d0119d69-93db-4ca1-8097-ab499f4f6732)
+![10](https://github.com/user-attachments/assets/0fffa487-78a9-41ff-8d08-43bfab0324af)
+
 
